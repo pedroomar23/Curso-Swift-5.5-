@@ -10,7 +10,7 @@
 
 ## Requisitos
 - Tener un Mac o iPad para trabajar con Swift Playgrounds
-- No es necesario tener conocimientos previos en programción
+- No es necesario tener conocimientos previos en programación
 
 ## Link del Curso
 - [Aprendiendo Swift con Platzi](https://platzi.com/new-home/clases/1772-swift-5/24872-mi-primer-programa-hello-world/)
