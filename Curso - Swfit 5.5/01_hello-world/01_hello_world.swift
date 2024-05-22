@@ -7,7 +7,7 @@
 
 import Foundation
 
-var names = "Carlos"
-let numero2 = 20
+var names$ = "Carlos"
+var numero20 = 100
 
 
