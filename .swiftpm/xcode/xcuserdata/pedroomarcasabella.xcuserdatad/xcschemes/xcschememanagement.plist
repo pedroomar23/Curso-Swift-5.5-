@@ -65,7 +65,14 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>6</integer>
+		</dict>
+		<key>02_variables_constantes (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 		<key>03_annotations (Playground) 1.xcscheme</key>
 		<dict>
@@ -86,7 +93,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>5</integer>
 		</dict>
 		<key>03_annotationsss (Playground) 1.xcscheme</key>
 		<dict>
@@ -107,7 +114,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>29</integer>
+			<integer>4</integer>
+		</dict>
+		<key>04_nomenclaturas_variables (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>04_nomenclaturass_variablesss (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 		<key>Curso-Swift 5.5.xcscheme_^#shared#^_</key>
 		<dict>

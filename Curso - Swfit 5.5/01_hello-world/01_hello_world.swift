@@ -7,4 +7,9 @@
 
 import Foundation
 
-var course = "Hello Playgrounds"
+var name3 = "Carlos"
+
+var name4 = "Carlos"
+var name5 = "Jose"
+
+
