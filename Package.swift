@@ -8,13 +8,13 @@ import PackageDescription
 import AppleProductTypes
 
 let package = Package(
-    name: "Curso",
+    name: "Curso-Swift 5.5",
     platforms: [
         .iOS("16.0")
     ],
     products: [
         .iOSApplication(
-            name: "Curso",
+            name: "Curso-Swift 5.5",
             targets: ["AppModule"],
             bundleIdentifier: "com.curso.Curso",
             displayVersion: "1.0",
